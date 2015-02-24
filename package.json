@@ -1,0 +1,6 @@
+{
+  "name": "recaptcha",
+  "version": "0.0.0",
+  "main": "./lib/recaptcha.js",
+  "engines": { "node": ">= 0.10.28" }
+}
